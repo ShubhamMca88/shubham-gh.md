@@ -7,8 +7,8 @@ Passionate about building production-ready applications with 3+ years of experie
 ## Expertise 🚀
 
 * **Cloud Technologies:** AWS, Azure, Kubernetes
-* **DevOps:** Docker, Terraform, GitHub , Git
-* **Web Development:** Python, Django
+* **DevOps:** Docker, Terraform, Nginx, GitHub, Git, lINUX, Bash
+* **Web Development:** Python, Django ,HTML&CSS
 
 ## Skills 🛠️
 
