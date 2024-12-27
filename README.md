@@ -16,6 +16,8 @@ Passionate about building production-ready applications with 3+ years of experie
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
   </a>&nbsp;
+
+
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/> 
   </a>
