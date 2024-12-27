@@ -11,6 +11,37 @@ Passionate about building production-ready applications with 3+ years of experie
 * **Web Development:** Python, Django
 
 ## Skills 🛠️
+
+<style>
+  .icon-container {
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr); 
+    justify-content: center; 
+    align-items: center;
+    gap: 20px; 
+  }
+
+  .icon-container a { 
+    display: inline-block;
+    padding: 10px; 
+    border: 2px solid #ddd; 
+    border-radius: 10px; 
+    transition: all 0.3s ease; 
+    text-align: center; 
+  }
+
+  .icon-container a:hover {
+    transform: translateY(-5px); 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+    border-color: #007bff; 
+  }
+
+  .icon-container img {
+    width: 40px; 
+    height: 40px;
+  }
+</style>
+
 <div class="icon-container">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /> 
@@ -44,5 +75,6 @@ Passionate about building production-ready applications with 3+ years of experie
 ## Let's Connect! 🤝
 
 * **LinkedIn:** [Shubham](https://www.linkedin.com/in/shubhammca88/)
-* **Instagram:** [Shubham](https://www.instagram.com/in/su.g.am/) 
+* **Instagram:** [@su.g.am](https://www.instagram.com/in/su.g.am/) 
 * **Email:** [Email](mailto:byshubham6@gmail.com)
+
