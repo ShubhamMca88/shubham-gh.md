@@ -1,6 +1,6 @@
 # Shubham 🇮🇳
 
-**Development & DevOps Engineer**
+**Developer & DevOps Engineer**
 
 Passionate about building production-ready applications with 3+ years of experience in onsite and remote roles. I thrive in cloud-based environments, leveraging DevOps tools and the power of Python and Django to bring ideas to life.
 
