@@ -1,4 +1,4 @@
-# Git Hooks
+# `Git Hooks`
 
 Git hooks are scripts that Git executes before or after events such as commit, push, and receive. They let you automate tasks and enforce workflows within your Git repository.
 
